@@ -1,0 +1,22 @@
+Data Layermiddle ware layerUI layerNetwork layerDeployment layersharding and replicaDesign paterns
+2nd level cachingUi caching
+UI optimizersHttp or Httpssingle node or multi nodeHA
+verticle scaling,
+horizontal scalingSecurity and Https
+ AuthZ and AuthNStandard library
+Scalable server
+Preload/lazy loadCloud or native VM1st level caching
+Elk Ð search
+Key value pairMicro front end architecture
+Validations
+Data gridLogging and MonitoringLogging and MonitoringLogging and Monitoring
+Data layer :
+	Sql : mysql,mssql,oracle,postgress.
+	Non sql : mongo DB. 
+	sharding and replica :
+	 sharding : having multiple instances across deffrent physical infrastructure.
+	Replica : having multiple instances in the same system.
+	
+	
+
+
